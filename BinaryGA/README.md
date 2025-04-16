@@ -107,6 +107,3 @@ sphereBGA.m
 
 ---
 
-## 📮 Acknowledgements
-
-This project showcases how a binary-coded GA can be applied to both combinatorial (GAP) and continuous (Sphere) optimization problems, with strong performance compared to traditional methods.
