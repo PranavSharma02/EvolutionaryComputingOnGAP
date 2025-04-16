@@ -1,5 +1,5 @@
 
-# Generalized Assignment Problem (GAP) - Heuristic vs Optimal Solutions
+# Generalized Assignment Problem (GAP) - Approximation
 
 This project explores the **Generalized Assignment Problem (GAP)** and implements a **greedy approximation algorithm** to solve it. The results are compared against optimal solutions to evaluate the effectiveness of the heuristic approach.
 
