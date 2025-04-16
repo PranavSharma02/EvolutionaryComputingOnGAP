@@ -19,8 +19,8 @@ A benchmark function for evaluating real-coded optimization algorithms. The obje
 ### ✅ Real-Coded Genetic Algorithm (RCGA)
 - Chromosome: vector of real numbers \[0,1\] representing preferences.
 - Selection: Tournament
-- Crossover: Blend (BLX-α)
-- Mutation: Gaussian
+- Crossover: 
+- Mutation: 
 - Repair: Decoding strategy ensures feasibility based on resource constraints.
 
 ### 🔲 Binary GA (BGA)
@@ -84,12 +84,4 @@ A benchmark function for evaluating real-coded optimization algorithms. The obje
 
 ---
 
-## ✨ Acknowledgements
 
-Developed to demonstrate the efficiency of Real-Coded GAs in handling constrained combinatorial and continuous optimization problems.
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
