@@ -12,6 +12,7 @@ This project provides a binary-coded Genetic Algorithm (GA) implementation to so
 - `BgaVSappVSopti.png`: Visualization of performance comparison between Binary GA, Approximation, and Optimal methods.
 - `sphereBGA.m`: Demonstrates Binary GA on a continuous **Sphere Function** (benchmark function for optimization).
 - `sphereBGAgraph.png`: Convergence plot of Binary GA solving the Sphere function.
+- `gap12_binary_avg_results.csv`: Average of 10 Iteration of GAP 12
 
 ---
 
