@@ -77,5 +77,9 @@ c500-2  986     c500-2  999     c500-2  972     c500-2  978
 - MATLAB R2019b or newer
 - Optimization Toolbox (`intlinprog` required)
 
+##  Graph
+
+- Open Optimal.png
+
 
 
