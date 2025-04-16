@@ -52,7 +52,7 @@ process_large_gap_ga();
 
 The `compareBGAvsOPvsAPP.m` script visualizes the performance comparison among:
 
-- 🟩 **Greedy Approximation**
+- 🟩 **Greedy Approximation**(Only 12th GAP-10 Iterations)
 - 🟧 **Binary GA**
 - 🟦 **Optimal Solver**
 
